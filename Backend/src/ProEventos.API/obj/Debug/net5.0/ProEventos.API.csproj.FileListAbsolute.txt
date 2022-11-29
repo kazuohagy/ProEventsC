@@ -5,7 +5,6 @@ C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debu
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
-C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -27,3 +26,4 @@ C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\obj\Debu
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\Users\kazuo\OneDrive\Documents\ProEventsC\Backend\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll

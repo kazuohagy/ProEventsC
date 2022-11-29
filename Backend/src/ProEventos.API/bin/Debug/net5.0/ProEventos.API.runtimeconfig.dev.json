@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kazuo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kazuo\\.nuget\\packages"
+    ]
+  }
+}

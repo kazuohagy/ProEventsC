@@ -1,1 +1,8 @@
 <h1>eventos works!</h1>
+<p>Tema: {{ evento[0].Tema }}</p>
+<p>Local: {{ evento[0].Local }}</p>
+
+<div *ngFor="let item of evento">
+  <p><b>Tema: </b>{{ item.Tema }}</p>
+  <p><b>Local: </b>{{ item.Local }}</p>
+</div>

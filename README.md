@@ -90,3 +90,5 @@ Depois para rodar
 ```
 npm run start
 ```
+## Rick and Morty :ghost:
+![EnviousUnrulyHake-max-1mb](https://user-images.githubusercontent.com/73189635/206342290-776b1647-0905-4597-b34f-aa022d9b1542.gif)

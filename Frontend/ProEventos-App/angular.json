@@ -3,11 +3,14 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "test1": {
+    "ProEventos-App": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
+        },
+        "@schematics/angular:application": {
+          "strict": true
         }
       },
       "root": "",
@@ -17,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/test1",
+            "outputPath": "dist/ProEventos-App",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -69,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "test1:build:production"
+              "browserTarget": "ProEventos-App:build:production"
             },
             "development": {
-              "browserTarget": "test1:build:development"
+              "browserTarget": "ProEventos-App:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -80,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "test1:build"
+            "browserTarget": "ProEventos-App:build"
           }
         },
         "test": {
@@ -104,7 +107,5 @@
       }
     }
   },
-  "cli": {
-    "analytics": "c5b82491-cd61-44f9-a4bf-aece4c80c247"
-  }
+  "defaultProject": "ProEventos-App"
 }

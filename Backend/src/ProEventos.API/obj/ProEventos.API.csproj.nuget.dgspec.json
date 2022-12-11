@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kazuo\\OneDrive\\Documents\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\kazuo\\OneDrive\\Documents\\GitHub\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kazuo\\OneDrive\\Documents\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\kazuo\\OneDrive\\Documents\\GitHub\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kazuo\\OneDrive\\Documents\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\kazuo\\OneDrive\\Documents\\GitHub\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\kazuo\\OneDrive\\Documents\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\kazuo\\OneDrive\\Documents\\GitHub\\ProEventsC\\Backend\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\kazuo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kazuo\\OneDrive\\Documents\\ProEventsC\\Backend\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\kazuo\\OneDrive\\Documents\\GitHub\\ProEventsC\\Backend\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kazuo\\AppData\\Roaming\\NuGet\\NuGet.Config",

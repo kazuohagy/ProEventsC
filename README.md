@@ -57,7 +57,7 @@ Para criar um banco de dados SQLITE
 dotnet ef database update
 ```
 
-## Rodar Backend
+## Rodar Backend :computer:
 
 E necessario acessar esse caminho \ProEventsC\Backend\src\ProEventos.API
 
@@ -71,7 +71,7 @@ Depois rodar
 dotnet watch run
 ```
 
-## Rodar Frontend
+## Rodar Frontend :computer:
 
 Acessar esse caminho \ProEventsC\Frontend\ProEventos-App>
 

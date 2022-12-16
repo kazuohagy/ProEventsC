@@ -24,8 +24,8 @@
       <th>Opcoes</th>
     </tr>
   </thead>
-  <tbody>
-    <tr *ngFor="let item of evento">
+  <tbody *ngIf="eventos && eventos.length">
+    <tr *ngFor="let item of eventos">
       <td></td>
       <td>{{ item.imagemURL }}</td>
       <td>{{ item.tema }}</td>
@@ -36,12 +36,21 @@
       <td></td>
     </tr>
   </tbody>
+  {{
+    !eventos.length
+  }}
+  <tfoot *ng="!eventos.length">
+    <tr>
+      <td colspan="8" class="text-center">
+        <h4>Nenhum evento encontrado</h4>
+      </td>
+    </tr>
+  </tfoot>
 </table>
-
 <!-- Diretivas esturuturais
 *ngIf
 *ngFor
 *ngShow -->
 
-{{ evento[0].imagemURL }}
-{{ evento | json }}
+<!-- {{ eventos[0].imagemURL }}
+{{ eventos | json }} -->

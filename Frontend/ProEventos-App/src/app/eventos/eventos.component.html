@@ -36,10 +36,8 @@
       <td></td>
     </tr>
   </tbody>
-  {{
-    !eventos.length
-  }}
-  <tfoot *ng="!eventos.length">
+
+  <tfoot *ngIf="!eventos.length">
     <tr>
       <td colspan="8" class="text-center">
         <h4>Nenhum evento encontrado</h4>
@@ -52,5 +50,5 @@
 *ngFor
 *ngShow -->
 
-<!-- {{ eventos[0].imagemURL }}
-{{ eventos | json }} -->
+<!-- {{ eventos[0].imagemURL }} -->
+<!-- {{ eventos | json }} -->
